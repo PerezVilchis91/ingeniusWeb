@@ -1,0 +1,28 @@
+body{
+    margin: 0;
+}
+.container{
+    margin-top: 20px;
+    width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;  
+}
+.main{
+    background-color: yellowgreen;
+    height: 500px;
+}
+.header{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: blue  ;
+    height: 80px;
+    display: ;
+    line-height: 80px;
+}
+.footer{
+    border-radius: 10px;
+    background-color: blue;
+    height: 30px;
+}
